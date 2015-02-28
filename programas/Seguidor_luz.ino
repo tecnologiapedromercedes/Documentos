@@ -2,6 +2,7 @@
  * Brushed_H_Bridge_Direction sketch
  * uses photo sensors to control motor direction
  * robot moves in the direction of a light
+ * Arduino Cookbook
  */
  int leftPins[] = {5,7,4};
  int rightPins[] = {6,3,2};     // on pin for PWM, two pins for motor direction
