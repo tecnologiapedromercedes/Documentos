@@ -1,4 +1,4 @@
-/* KnightRider from Arduino Cookbook
+/* KnightRider from Arduino Cookbook  www.it-ebooks.info
 */
 const int NbrLEDs = 6;
 const int ledPins[] = {2, 3, 4, 5, 6, 7};
